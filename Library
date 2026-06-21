@@ -1,4 +1,4 @@
--- ts file was generated at discord.gg/25ms
+-- ts
 
 if game:GetService('CoreGui'):FindFirstChild('DZ7HUB') and game:GetService('CoreGui'):FindFirstChild('ScreenGui') then
     game:GetService('CoreGui').DZ7HUB:Destroy()
